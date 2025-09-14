@@ -1,0 +1,12 @@
+{
+  "botStats": {
+    "totalCommands": 0,
+    "totalUsers": 0,
+    "totalGroups": 0,
+    "uptime": 0,
+    "startTime": null
+  },
+  "userStats": {},
+  "groupStats": {},
+  "commandStats": {}
+}

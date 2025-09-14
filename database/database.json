@@ -1,0 +1,19 @@
+{
+  "users": {},
+  "groups": {},
+  "settings": {
+    "botName": "HITORI-MASTER",
+    "ownerNumber": "6281234567890",
+    "prefix": ".",
+    "antispam": true,
+    "antilink": true,
+    "antiracism": true,
+    "autoReply": true,
+    "maintenance": false
+  },
+  "banned": [],
+  "premium": [],
+  "games": {},
+  "votes": {},
+  "announcements": []
+}

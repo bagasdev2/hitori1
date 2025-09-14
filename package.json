@@ -1,0 +1,45 @@
+{
+  "name": "hitori-master",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Full Power dengan fitur lengkap",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["whatsapp", "bot", "baileys", "hitori", "master"],
+  "author": "HITORI-MASTER",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.17.2",
+    "chalk": "^4.1.2",
+    "moment": "^2.29.4",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.2.0",
+    "ytdl-core": "^4.11.5",
+    "node-gtts": "^2.0.2",
+    "jimp": "^0.22.10",
+    "canvas": "^2.11.2",
+    "sharp": "^0.33.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "cron": "^3.1.6",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.7",
+    "crypto": "^1.0.1",
+    "uuid": "^9.0.1",
+    "node-fetch": "^2.7.0",
+    "form-data": "^4.0.0",
+    "file-type": "^16.5.4",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
