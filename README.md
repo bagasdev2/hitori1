@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- 📧 **Email**: support@hitori-master.com
+- 📧 **Email**:bagas.aditya0225@gmail.com
 - 💬 **Telegram**: @HitoriMasterSupport
 - 🌐 **Website**: https://hitori-master.com
 - 📱 **WhatsApp**: +62 812-3456-7890
